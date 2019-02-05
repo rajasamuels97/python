@@ -1,5 +1,5 @@
 ch=['a','e','i','o','u','A','E','I','O','U']
-s=str(input("enter the character:"))
+s=str(input(""))
 if(s in ch):
  print("vowel")
  else;
